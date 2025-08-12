@@ -13,4 +13,4 @@ Simple, free website
 ![blogger](https://github.com/user-attachments/assets/0378ae1c-3b73-4dc7-8a6d-85d574945361)
 
 ## Connect a Custom Domain
-Get fancy. Use [yourdomain.com](#) instead of [name-of-blog.blogspot.com](#) - [set up a custom domain](https://support.google.com/blogger/answer/1233387?visit_id=638278678508250937-2974163617&p=customdomain&hl=en&rd=2)
+Get fancy. Use <ins>yourdomain.com</ins> instead of <ins>name-of-blog.blogspot.com</ins> - [set up a custom domain](https://support.google.com/blogger/answer/1233387?visit_id=638278678508250937-2974163617&p=customdomain&hl=en&rd=2)
