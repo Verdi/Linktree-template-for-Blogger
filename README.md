@@ -9,3 +9,8 @@ Simple, free website
 4. Replace the existing template HTML with the HTML from this repository.
 5. Customize the links and info directly in that editing interface.
 6. Save!
+
+![blogger](https://github.com/user-attachments/assets/0378ae1c-3b73-4dc7-8a6d-85d574945361)
+
+## Connect a Custom Domain
+Get fancy. Use [yourdomain.com](#) instead of [name-of-blog.blogspot.com](#) - [set up a custom domain](https://support.google.com/blogger/answer/1233387?visit_id=638278678508250937-2974163617&p=customdomain&hl=en&rd=2)
